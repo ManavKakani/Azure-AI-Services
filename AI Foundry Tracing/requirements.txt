@@ -1,0 +1,6 @@
+opentelemetry-sdk
+azure-monitor-opentelemetry
+azure-ai-inference
+python-dotenv
+numpy
+azure-core
